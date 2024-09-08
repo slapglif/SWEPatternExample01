@@ -249,8 +249,4 @@ if __name__ == "__main__":
 10. Dependency Inversion:
     High-level modules (OHLCDataAnalyzer) depend on abstractions (IndicatorStrategy),
     not concrete implementations, following the Dependency Inversion principle.
-
-These advanced concepts make the code more modular, extensible, and efficient while
-maintaining readability and educational value for students learning software design
-and financial data analysis.
 """
